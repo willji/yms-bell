@@ -1,0 +1,9 @@
+.CodeMirror {
+  height: auto;
+}
+
+.ReactCodeMirror {
+  border: 1px solid #ccc;
+  line-height: normal;
+  height: auto;
+}

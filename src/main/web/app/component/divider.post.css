@@ -1,0 +1,8 @@
+.divider {
+  padding: 0 20px 0;
+  margin: 20px 0;
+  line-height: 1px;
+  border-left: 400px solid #ddd;
+  border-right: 400px solid #ddd;
+  text-align: center;
+}
